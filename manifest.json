@@ -1,0 +1,27 @@
+{
+  "name": "Identity.pub - Your Sovereign Identity",
+  "short_name": "Identity.pub",
+  "description": "Create your sovereign digital identity. No servers, no tracking, just you.",
+  "start_url": "/identity-pub/",
+  "display": "standalone",
+  "background_color": "#F9FAFB",
+  "theme_color": "#4F46E5",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["productivity", "security", "utilities"],
+  "screenshots": [],
+  "prefer_related_applications": false
+}
